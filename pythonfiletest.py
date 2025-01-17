@@ -6,6 +6,7 @@ print(a)
 
 b, c = 5, 6
 d= "newtest"
+t =3 
 
 print("{} {}".format(b, d))
 
